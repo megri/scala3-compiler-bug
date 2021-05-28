@@ -1,0 +1,10 @@
+.DS_STORE
+
+.bloop/
+.bsp/
+.metals/
+.vscode/
+out/
+target/
+
+metals.sbt
